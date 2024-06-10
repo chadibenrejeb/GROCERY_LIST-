@@ -1,3 +1,7 @@
+This project is a simple grocery store application built with React.js. 
+It includes components to display a list of grocery items, add , delete and update items to a cart.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
